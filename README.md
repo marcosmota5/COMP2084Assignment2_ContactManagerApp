@@ -62,13 +62,13 @@ To run the application:
 
 ## Technologies Used
 
-- **ASP.NET** -
-- **C#** -
-- **HTML** - 
-- **CSS** - 
-- **Bootstrap** -
-- **Entity Framework** -
-- **SQL Server** -
+- **ASP.NET**
+- **C#**
+- **HTML**
+- **CSS** 
+- **Bootstrap**
+- **Entity Framework**
+- **SQL Server**
 
 ## Other
 
