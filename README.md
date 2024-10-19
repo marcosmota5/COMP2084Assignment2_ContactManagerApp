@@ -59,6 +59,7 @@ To run the application:
 - **C#**
 - **HTML**
 - **CSS** 
+- **JavaScript**
 - **Bootstrap**
 - **Entity Framework**
 - **SQL Server**
