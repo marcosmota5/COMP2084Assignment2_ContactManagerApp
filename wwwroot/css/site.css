@@ -20,3 +20,9 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.logo img {
+    width: 32px;
+    height: 32px;
+    margin-right: 10px;
+}

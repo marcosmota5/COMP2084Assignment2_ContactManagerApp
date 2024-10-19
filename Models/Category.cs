@@ -8,4 +8,5 @@ public class Category
 
     [Required(ErrorMessage = "Please enter the category name")]
     public string Name { get; set; }
+
 }
