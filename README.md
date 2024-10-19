@@ -7,19 +7,12 @@ This is a repository of an ASP.NET application created for an assignment, intend
 **Assignment Detail:** COMP2084 Assignment 2
 **Created on:** 2024-10-14
 
-## Student Information
+## Students Information
 
-- **ID:** 200564426  
-- **Name:** <a href="https://github.com/marcosmota5" title="GitHub Profile">Marcos Oliveira Mota</a>
-
-- **ID:** 200587841  
-- **Name:** <a href="https://github.com/200587841" title="GitHub Profile">Natália Dias</a>
-
-- **ID:** 200579843  
-- **Name:** <a href="https://github.com/sergiocutrim" title="GitHub Profile">Sergio Cutrim Gouveia</a>
-
-- **ID:** 200577768  
-- **Name:** <a href="https://www.linkedin.com/in/aynur-vuran/" title="LinkedIn Profile">Aynur Vuran</a>
+- <a href="https://github.com/marcosmota5" title="GitHub Profile">Marcos Oliveira Mota (200564426)</a>
+- <a href="https://github.com/200587841" title="GitHub Profile">Natália Dias (200587841)</a>
+- <a href="https://github.com/sergiocutrim" title="GitHub Profile">Sergio Cutrim Gouveia (200579843)</a>
+- <a href="https://www.linkedin.com/in/aynur-vuran/" title="LinkedIn Profile">Aynur Vuran (200577768)</a>
 
 ## Description
 
