@@ -10,7 +10,7 @@ This is a repository of an ASP.NET application created for an assignment, intend
 ## Students Information
 
 - <a href="https://github.com/marcosmota5" title="GitHub Profile">Marcos Oliveira Mota (200564426)</a>
-- <a href="https://github.com/200587841" title="GitHub Profile">Nat·lia Dias (200587841)</a>
+- <a href="https://github.com/200587841" title="GitHub Profile">Nat√°lia Dias (200587841)</a>
 - <a href="https://github.com/sergiocutrim" title="GitHub Profile">Sergio Cutrim Gouveia (200579843)</a>
 - <a href="https://www.linkedin.com/in/aynur-vuran/" title="LinkedIn Profile">Aynur Vuran (200577768)</a>
 
@@ -66,4 +66,4 @@ To run the application:
 
 ## Other
 
-A big thanks to <a href="https://www.flaticon.com/" title="Flaticon">Flaticon</a> for providing for free so many amazing images. This app icon in this project comes from Flaticon, so all rights are reserved to it.
+A big thanks to <a href="https://www.flaticon.com/" title="Flaticon">Flaticon</a> for providing for free so many amazing images. The app icon in this project comes from Flaticon, so all rights are reserved to it.
